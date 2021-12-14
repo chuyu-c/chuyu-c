@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chuyu-c
 - 👀 I’m interested in Data Science / Machine Learning
-- 🌱 I’m currently learning Computer Vision
+- 🌱 I’m currently learning Convolutional Neural Network
 - 💞️ I’m looking to collaborate on Image Recognition
 - 📫 How to reach me -> chuyu0507@gmail.com
 
